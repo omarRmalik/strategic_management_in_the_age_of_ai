@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Strategic Management in the Age of Artificial Intelligence"
 part: "0"
@@ -255,4 +254,3 @@ Ultimately, this course asks students to do more than learn strategy.
 It asks them to participate in the continuing evolution of one of management's most important disciplines.
 
 That is both the challenge and the opportunity of studying strategic management in the age of artificial intelligence.
-```
