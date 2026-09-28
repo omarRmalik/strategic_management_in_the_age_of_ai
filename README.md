@@ -79,14 +79,14 @@ Each week pairs a foundational strategy paper with a contemporary AI article:
 
 | Week | Classical Strategy | Contemporary AI |
 |---|---|---|
-| 1 | Porter (1996) — *What Is Strategy?* | Hutzschenreuter et al. (2025) — AI strategy frameworks |
+| 1 | Porter (1996) — *What Is Strategy?* | Hutzschenreuter & Lämmermann (2025) — AI strategy frameworks |
 | 2 | Barney (1991) — Resource-Based View | Biloslavo et al. (2024) — AI and strategic planning |
 | 3 | Teece, Pisano & Shuen (1997) — Dynamic Capabilities | Recent AI & Dynamic Capabilities article |
 | 4 | March (1991) — Organizational Learning | Jarrahi (2018) — Human–AI symbiosis |
 | 5 | Grant (1996) — Knowledge-Based Theory | Shrestha et al. (2019) — AI decision structures |
 | 6 | Prahalad & Hamel (1990) — Core Competencies | Dellermann et al. (2019) — Hybrid intelligence |
 | 7 | Williamson (1979) — Transaction Cost Economics | Kellogg et al. (2020) — Algorithmic management |
-| 8 | Wernerfelt (1984) — Resource-Based View origins | Rai et al. (*MIS Quarterly*) — Digital platforms |
+| 8 | Wernerfelt (1984) — Resource-Based View origins | Rai et al. (2019) — Digital platforms |
 | 9 | Teece (2007) — Dynamic capabilities microfoundations | von Krogh (2018) — AI and management theory |
 | 10 | Course synthesis | Makarius et al. (2020) — Human–AI collaboration |
 

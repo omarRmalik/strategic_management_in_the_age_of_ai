@@ -78,15 +78,15 @@ The following readings represent the emerging literature on artificial intellige
 
 | Theme                     | Reading                                                                                                                                                                                  | Why It Matters                                                        |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| AI Strategy               | Hutzschenreuter, T., et al. (2025). *What Is Your AI Strategy? Systematically Integrating Self-Assessment into AI Strategy Development.* *Academy of Management Perspectives.*           | Develops a structured framework for organizational AI strategy.       |
-| Strategic Planning        | Biloslavo, R., et al. (2024). Artificial intelligence and the strategic planning process within VUCA environments: A research agenda and guidelines. *Futures.*                          | Examines how AI transforms strategic planning.                        |
+| AI Strategy               | Hutzschenreuter, T., & Lämmermann, T. (2025). What is your AI strategy? Systematically integrating self-learning technologies into your business strategy. *Academy of Management Perspectives, 39*(4), 528–551. | Develops a structured framework for organizational AI strategy.       |
+| Strategic Planning        | Biloslavo, R., Edgar, D., Aydin, E., & Bulut, C. (2024). Artificial intelligence (AI) and strategic planning process within VUCA environments: A research agenda and guidelines. *Management Decision, 63*(10), 3599–3624. | Examines how AI transforms strategic planning.                        |
 | Human–AI Collaboration    | Jarrahi, M. H. (2018). Artificial intelligence and the future of work: Human–AI symbiosis in organizational decision making. *Business Horizons, 61*(4), 577–586.                        | Explains collaborative decision making between humans and AI.         |
 | AI Decision Structures    | Shrestha, Y. R., Ben-Menahem, S., & von Krogh, G. (2019). Organizational decision-making structures in the age of artificial intelligence. *California Management Review, 61*(4), 66–83. | Examines organizational redesign for AI-enabled decisions.            |
 | Hybrid Intelligence       | Dellermann, D., Ebel, P., Söllner, M., & Leimeister, J. M. (2019). Hybrid intelligence. *Business & Information Systems Engineering, 61*(5), 637–643.                                    | Introduces principles for integrating human and machine intelligence. |
 | AI and Leadership         | von Krogh, G. (2018). Artificial intelligence in organizations: New opportunities for phenomenon-based theorizing. *Academy of Management Discoveries, 4*(4), 404–409.                   | Explores AI's implications for management theory.                     |
 | Algorithmic Management    | Kellogg, K. C., Valentine, M. A., & Christin, A. (2020). Algorithms at work: The new contested terrain of control. *Academy of Management Annals, 14*(1), 366–410.                       | Investigates algorithmic management and organizational control.       |
-| Human–AI Teams            | Makarius, E. E., et al. (2020). Human–AI collaboration in organizations: A review and research agenda. *Business Horizons, 63*(6), 813–825.                                              | Reviews organizational implications of human–AI collaboration.        |
-| Digital Platforms         | Rai, A., Constantinides, P., & Sarker, S. (Selected article). *MIS Quarterly.*                                                                                                           | Explores AI-enabled digital platforms and ecosystems.                 |
+| Human–AI Teams            | Makarius, E. E., Mukherjee, D., Fox, J. D., & Fox, A. K. (2020). Rising with the machines: A sociotechnical framework for bringing artificial intelligence into the organization. *Journal of Business Research, 120*, 262–273. | Reviews organizational implications of human–AI collaboration.        |
+| Digital Platforms         | Rai, A., Constantinides, P., & Sarker, S. (2019). Editor’s comments: Next-generation digital platforms: Toward human–AI hybrids. *MIS Quarterly, 43*(1), iii–ix. | Explores AI-enabled digital platforms and ecosystems.                 |
 | AI & Dynamic Capabilities | Selected recent article by David J. Teece on AI, digital transformation, and dynamic capabilities.                                                                                       | Extends dynamic capabilities into the AI era.                         |
 
 > **Instructor Note:** The final two readings should be updated before each offering of the course to reflect the most influential recent publications. This keeps the course at the research frontier while preserving a stable theoretical core.
@@ -99,14 +99,14 @@ The defining feature of this course is the deliberate pairing of classical and c
 
 | Week | Classical Strategy           | Contemporary AI                          |
 | ---- | ---------------------------- | ---------------------------------------- |
-| 1    | Porter (1996)                | Hutzschenreuter et al. (2025)            |
+| 1    | Porter (1996)                | Hutzschenreuter & Lämmermann (2025)      |
 | 2    | Barney (1991)                | Biloslavo et al. (2024)                  |
 | 3    | Teece, Pisano & Shuen (1997) | Recent AI & Dynamic Capabilities article |
 | 4    | March (1991)                 | Jarrahi (2018)                           |
 | 5    | Grant (1996)                 | Shrestha et al. (2019)                   |
 | 6    | Prahalad & Hamel (1990)      | Dellermann et al. (2019)                 |
 | 7    | Williamson (1979)            | Kellogg et al. (2020)                    |
-| 8    | Wernerfelt (1984)            | Rai et al. (*MIS Quarterly*)             |
+| 8    | Wernerfelt (1984)            | Rai et al. (2019)                        |
 | 9    | Teece (2007)                 | von Krogh (2018)                         |
 | 10   | Course Synthesis             | Makarius et al. (2020)                   |
 

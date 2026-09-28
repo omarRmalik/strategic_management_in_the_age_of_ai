@@ -58,7 +58,9 @@ Eisenhardt, K. M., & Martin, J. A. (2000). Dynamic capabilities: What are they? 
 
 ## Contemporary AI and Organization Canon
 
-Hutzschenreuter, T., & Lämmermann, T. (2025). What is your AI strategy? Systematically integrating self-learning technologies into your business strategy. *Academy of Management Perspectives*. https://doi.org/10.5465/amp.2023.0243
+Hutzschenreuter, T., & Lämmermann, T. (2025). What is your AI strategy? Systematically integrating self-learning technologies into your business strategy. *Academy of Management Perspectives, 39*(4), 528–551. https://doi.org/10.5465/amp.2023.0243
+
+Biloslavo, R., Edgar, D., Aydin, E., & Bulut, C. (2024). Artificial intelligence (AI) and strategic planning process within VUCA environments: A research agenda and guidelines. *Management Decision, 63*(10), 3599–3624. https://doi.org/10.1108/MD-10-2023-1944
 
 Jarrahi, M. H. (2018). Artificial intelligence and the future of work: Human–AI symbiosis in organizational decision making. *Business Horizons, 61*(4), 577–586. https://doi.org/10.1016/j.bushor.2018.03.007
 
@@ -82,7 +84,7 @@ Murray, A., Rhymer, J., & Sirmon, D. G. (2021). Humans and technology: Forms of 
 
 ## Harvard Business School Cases
 
-Wu, A. (2025). *AI Wars in 2025*. Harvard Business Publishing Case 725-4
+Wu, A. (2025). *AI Wars in 2025*. Harvard Business Publishing Case 725-484.
 
 Avery, J., & Steenburgh, T. (2018). *HubSpot and Motion AI: Chatbot-enabled CRM*. Harvard Business School Case 518-067. Revised October 2019.
 
@@ -119,15 +121,15 @@ Each week pairs one classical strategy reading with one contemporary AI or organ
 | Week | Classical Reading | AI / Organization Reading |
 |---:|---|---|
 | 1 | Porter (1996) | Hutzschenreuter & Lämmermann (2025) |
-| 2 | Barney (1991) | Rai, Constantinides, & Sarker (2019) |
-| 3 | Teece, Pisano, & Shuen (1997) | Tschang & Almirall (2021) |
+| 2 | Barney (1991) | Biloslavo et al. (2024) |
+| 3 | Teece, Pisano, & Shuen (1997) | Recent AI & Dynamic Capabilities article |
 | 4 | March (1991) | Jarrahi (2018) |
 | 5 | Grant (1996) | Shrestha, Ben-Menahem, & von Krogh (2019) |
 | 6 | Prahalad & Hamel (1990) | Dellermann et al. (2019) |
 | 7 | Williamson (1979) | Kellogg, Valentine, & Christin (2020) |
-| 8 | Wernerfelt (1984) | Murray, Rhymer, & Sirmon (2021) |
+| 8 | Wernerfelt (1984) | Rai, Constantinides, & Sarker (2019) |
 | 9 | Teece (2007) | von Krogh (2018) |
-| 10 | Eisenhardt & Martin (2000) | Makarius et al. (2020) |
+| 10 | Course synthesis | Makarius et al. (2020) |
 
 ---
 
