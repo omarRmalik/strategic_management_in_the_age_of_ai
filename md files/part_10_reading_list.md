@@ -20,7 +20,7 @@ Students are expected to read each assigned work not only for content, but for i
 
 ---
 
-## Required Books
+## Recommended Supplementary Books
 
 Iansiti, M., & Lakhani, K. R. (2020). *Competing in the age of AI: Strategy and leadership when algorithms and networks run the world*. Harvard Business Review Press.
 
@@ -82,56 +82,13 @@ Murray, A., Rhymer, J., & Sirmon, D. G. (2021). Humans and technology: Forms of 
 
 ## Harvard Business School Cases
 
-Wu, A., Higgins, M., Zhang, M., & Jiang, H. (2023). *AI Wars*. Harvard Business School Case 723-434. Revised February 2024.
+Wu, A. (2025). *AI Wars in 2025*. Harvard Business Publishing Case 725-4
 
 Avery, J., & Steenburgh, T. (2018). *HubSpot and Motion AI: Chatbot-enabled CRM*. Harvard Business School Case 518-067. Revised October 2019.
 
 Kerr, W. R., & Palano, J. (2019). *Osaro: Picking the best path*. Harvard Business School Case 820-012.
 
 JPMorganChase: Leadership in the Age of GenAI. (2025). Harvard Business Publishing Case 325-066.
-
-Wu, A. (2025). *AI Wars in 2025*. Harvard Business Publishing Case 725-484.
-
----
-
-## Recommended Executive and Practitioner Sources
-
-Students should regularly consult the following sources to understand how executives, consultants, and technology leaders are interpreting AI strategy in real time.
-
-- *Harvard Business Review*
-- *MIT Sloan Management Review*
-- McKinsey Global Institute
-- BCG Henderson Institute
-- Bain & Company Insights
-- Deloitte Insights
-- PwC Strategy&
-- IBM Institute for Business Value
-- Microsoft AI
-- NVIDIA AI
-- Stanford Institute for Human-Centered Artificial Intelligence
-- Brookings Institution AI Governance Research
-- OECD AI Policy Observatory
-
----
-
-## Recommended Journals
-
-Students interested in deeper scholarly work should regularly consult:
-
-- *Strategic Management Journal*
-- *Academy of Management Journal*
-- *Academy of Management Review*
-- *Academy of Management Perspectives*
-- *Academy of Management Discoveries*
-- *Organization Science*
-- *MIS Quarterly*
-- *Information Systems Research*
-- *Journal of Management*
-- *Journal of Business Research*
-- *California Management Review*
-- *Business Horizons*
-- *Harvard Business Review*
-- *MIT Sloan Management Review*
 
 ---
 
@@ -151,35 +108,7 @@ Recommended tools include:
 - Scite
 - Consensus
 
-Optional technical tools for advanced students include:
-
-- Python
-- Jupyter Notebook
-- Marimo
-- DuckDB
-- Power BI
-- Tableau
-
 ---
-
-## Library Databases
-
-Students should use university library access to retrieve peer-reviewed scholarship and business cases.
-
-Recommended databases include:
-
-- Business Source Complete
-- ABI/INFORM
-- JSTOR
-- Web of Science
-- Scopus
-- ScienceDirect
-- ProQuest
-- Emerald Insight
-- SAGE Journals
-- Wiley Online Library
-- INFORMS PubsOnline
-- Harvard Business Publishing Education
 
 ---
 
@@ -202,9 +131,7 @@ Each week pairs one classical strategy reading with one contemporary AI or organ
 
 ---
 
-## How Students Should Use This Knowledge Base
-
-Students should not treat this chapter as a passive bibliography. It is a working intellectual toolkit.
+## Weekly Readings and Theory Development Exercise
 
 For each assigned reading, students should ask:
 
